@@ -6,4 +6,5 @@ add branch
 test-merging
 test-remote-pull
 modify by other people
-version 7
+test SSH
+version 8
