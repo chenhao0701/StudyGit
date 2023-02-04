@@ -5,4 +5,5 @@ Hello Shangguigu
 add branch
 test-merging
 test-remote-pull
-version 6
+modify by other people
+version 7
