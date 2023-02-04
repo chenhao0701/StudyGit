@@ -2,4 +2,5 @@ Hello Git
 Hello chcode
 Hello Shangguigu
 
-version 3
+test-merging
+version 5
